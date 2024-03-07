@@ -5,8 +5,7 @@ resource "aws_key_pair" "ssh-key" {
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAYS2NQTH56FFS3HC7"
-  secret_key = "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"
+ 
 
 }
 
